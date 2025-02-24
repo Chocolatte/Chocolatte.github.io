@@ -13,7 +13,7 @@ What else do you need?
 
 ### My story
 
-##The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
+## The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
 
 It all started with a simple realization: people love watching TV, but they hate searching for what to watch. That’s where I come in. I’ve spent years making sure people don’t have to scroll endlessly through streaming platforms, questioning their life choices.
 
@@ -25,4 +25,4 @@ At some point, I decided that just fixing search wasn’t enough—I wanted to o
 
 Now, my days are filled with strategizing, optimizing, and making sure our AI doesn’t accidentally suggest horror movies to rom-com lovers. I thrive at the intersection of technology, user experience, and business strategy—translating complex algorithms into real-world solutions that make streaming seamless.
 
-TL;DR: I’ve spent my career making content discovery better, one metadata tag at a time. If you want to talk about search, recommendations, or why people still love reality TV, let’s connect.
+I’ve spent my career making content discovery better, one metadata tag at a time. If you want to talk about search, recommendations, or why people still love reality TV, let’s connect.
