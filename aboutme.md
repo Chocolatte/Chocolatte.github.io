@@ -1,22 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to meet me
+subtitle: Hello
 ---
 
 My name is Zoli.
 
-- I rock a great beard
-- Dad of two boys
-- Loyal to my family
-- Retro emulator eficionato
-- Shiny Pokémon hunter
-- TCG collector
-- Boardgame geek
-
-What else do you need?
-
-## MyStory: 🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
+## 🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
 
 It all started with a simple realization: people love watching TV 📺, but they hate searching for what to watch.\
 That’s where I come in.\
