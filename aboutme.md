@@ -21,9 +21,9 @@ What else do you need?
 
 It all started with a simple realization: people love watching TV 📺, but they hate searching for what to watch. That’s where I come in. I’ve spent years making sure people don’t have to scroll endlessly through streaming platforms, questioning their life choices.
 
-My career began in the depths of database management, IT and customer support 🎧, where I quickly learned two things:
-1️⃣ People are really passionate about their TV guides and VoD catalogues.
-2️⃣ The ability to stay calm while explaining “Have you tried turning it off and on again?” is an underrated skill.
+My career began in the depths of database management, IT and customer support 🎧, where I quickly learned two things:\
+1️⃣ People are really passionate about their TV guides and VoD catalogues.\
+2️⃣ The ability to stay calm while explaining “Have you tried turning it off and on again?” is an underrated skill.\
 
 From there, I took a deep dive into metadata 🔍—yes, that magical behind-the-scenes ingredient that makes search engines and recommendations work (or not work, depending on how much coffee they’ve had ☕).
 
