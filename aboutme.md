@@ -16,9 +16,7 @@ My name is Zoli.
 
 What else do you need?
 
-## MyStory:\
-
-🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
+## MyStory: 🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
 
 It all started with a simple realization: people love watching TV 📺, but they hate searching for what to watch.\
 That’s where I come in.\
