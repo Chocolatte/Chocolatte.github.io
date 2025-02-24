@@ -4,8 +4,6 @@ title: About me
 subtitle: Hello
 ---
 
-My name is Zoli.
-
 ## 🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
 
 It all started with a simple realization: people love watching TV 📺, but they hate searching for what to watch.\
