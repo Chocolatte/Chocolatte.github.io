@@ -4,20 +4,21 @@ title: About me
 subtitle: Why you'd want to meet me
 ---
 
-My name is Zoli. I have the following qualities:
+My name is Zoli.
 
 - I rock a great beard
-- I'm extremely loyal to my family
+- Dad of two boys
+- Loyal to my family
 - Retro emulator eficionato
-- Shiny Pokémon hunting
+- Shiny Pokémon hunter
 - TCG collector
 - Boardgame geek
 
 What else do you need?
 
-# My story
+## MyStory:\
 
-## 🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
+🎬 The Accidental Metadata Maestro: A Journey Through Streaming, Search, and Surviving Product Meetings
 
 It all started with a simple realization: people love watching TV 📺, but they hate searching for what to watch.\
 That’s where I come in.\
