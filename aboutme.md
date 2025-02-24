@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to meet me
 ---
 
-My name is Zoltan Kubat. I have the following qualities:
+My name is Zoli. I have the following qualities:
 
 - I rock a great beard
 - I'm extremely loyal to my family
