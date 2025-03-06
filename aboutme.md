@@ -24,11 +24,3 @@ Now, my days are filled with strategizing 🧠, optimizing ⚡, and making sure 
 I thrive at the intersection of technology, user experience, and business strategy—translating complex algorithms into real-world solutions that make streaming seamless.
 
 I’ve spent my career making content discovery better, one metadata tag at a time. If you want to talk about search, recommendations, or why people still love reality TV 📢, let’s connect! 🚀
-
-🚀 [App Name Placeholder] – Innovation in the Making 🤫
-
-Shhh… something big is coming. Behind the scenes, a new iOS app is taking shape—designed, built, and fine-tuned by a dedicated developer who codes by day and hunts for shiny Pokémon by night. ✨
-
-What is it? That’s still under wraps. But one thing’s for sure—it’s crafted with precision, fueled by passion, and powered by countless late-night coding sessions.
-
-Stay tuned. Something awesome is on the horizon. 🌟
