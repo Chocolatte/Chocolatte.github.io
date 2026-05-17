@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} — Blog{% endblock %}
+
+{% block content %}
+<section class="posts">
+  <h1>Blog</h1>
+  {% for article in articles_page.object_list %}
+  <article class="post-card">
+    <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+    <time>{{ article.date.strftime('%B %d, %Y') }}</time>
+    <p>{{ article.summary }}</p>
+  </article>
+  {% endfor %}
+
+  {% if articles_page.has_other_pages() %}
+  <nav class="pagination">
+    {% if articles_page.previous_page %}
+    <a href="{{ SITEURL }}/{{ previous_page_url }}">← Newer</a>
+    {% endif %}
+    {% if articles_page.next_page %}
+    <a href="{{ SITEURL }}/{{ next_page_url }}">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a class="site-title" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+      <nav>
+        <a href="{{ SITEURL }}/">Blog</a>
+        {% for p in pages %}
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <div class="container">
+      {% if SOCIAL %}
+      <div class="social">
+        {% for name, url in SOCIAL %}
+        <a href="{{ url }}">{{ name }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <p>&copy; {{ AUTHOR }}</p>
+    </div>
+  </footer>
+</body>
+</html>
