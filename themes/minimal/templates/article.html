@@ -1,13 +1,24 @@
 {% extends "base.html" %}
 
-{% block title %}{{ article.title }} — {{ SITENAME }}{% endblock %}
+{% block title %}{{ article.title }} — Zoltan Kubat{% endblock %}
 
 {% block content %}
-<article class="post">
-  <h1>{{ article.title }}</h1>
-  <time>{{ article.date.strftime('%B %d, %Y') }}</time>
-  <div class="content">
+<div class="page-hero">
+  <div class="container">
+    <div class="article-meta">
+      <time>{{ article.date.strftime('%B %d, %Y') }}</time>
+      {% if article.category %}<span class="post-category">{{ article.category }}</span>{% endif %}
+    </div>
+    <h1 class="page-title">{{ article.title }}</h1>
+  </div>
+</div>
+
+<div class="container page-body">
+  <div class="content article-content">
     {{ article.content }}
   </div>
-</article>
+  <div class="article-footer">
+    <a href="{{ SITEURL }}/" class="btn btn-outline">← Back to Blog</a>
+  </div>
+</div>
 {% endblock %}
