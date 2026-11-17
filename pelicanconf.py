@@ -27,3 +27,13 @@ SOCIAL = (
     ('LinkedIn', 'https://www.linkedin.com/in/zoltan-kubat-478461104'),
     ('Email', 'mailto:kubat.zoltan@icloud.com'),
 )
+
+# ── PM Toolkit membership ────────────────────────────────────────────────
+# Paste your checkout links here once your payment account is set up
+# (e.g. Lemon Squeezy or Gumroad subscription links). While they are empty,
+# the buttons on the Toolkit page fall back to a "join the waitlist" email.
+TOOLKIT_PRICE_MONTHLY = '€9'
+TOOLKIT_PRICE_YEARLY = '€90'
+TOOLKIT_CHECKOUT_MONTHLY = ''
+TOOLKIT_CHECKOUT_YEARLY = ''
+TOOLKIT_CONTACT_EMAIL = 'kubat.zoltan@icloud.com'

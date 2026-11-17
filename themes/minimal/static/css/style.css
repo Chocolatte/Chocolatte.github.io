@@ -376,3 +376,48 @@ a { color: inherit; text-decoration: none; }
   .footer-links { justify-content: center; }
   .hero { padding: 3rem 0 2.5rem; }
 }
+
+/* ── PM Toolkit page ───────────────────────────────────────────────────── */
+.tk-hero-inner { max-width: 760px; }
+.tk-hero .hero-tagline { max-width: 640px; }
+.tk-fineprint { font-size: .82rem; color: var(--text-muted); }
+.tk-section { padding: 4rem 0; }
+.tk-alt { background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+.tk-center { text-align: center; }
+.tk-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+.tk-card { border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem; background: var(--white); }
+.tk-num { font-size: .75rem; font-weight: 700; color: var(--blue); letter-spacing: .06em; }
+.tk-card h3 { font-size: 1rem; color: var(--navy); margin: .25rem 0 .35rem; line-height: 1.35; }
+.tk-card p { font-size: .88rem; color: var(--text-muted); line-height: 1.6; }
+.tk-why { display: grid; grid-template-columns: 1.3fr 1fr; gap: 2.5rem; align-items: center; }
+.tk-why h2, .tk-faq h2 { font-size: 1.6rem; color: var(--navy); letter-spacing: -.02em; margin-bottom: 1rem; }
+.tk-why p { margin-bottom: 1rem; }
+.tk-checks { list-style: none; display: grid; gap: .6rem; }
+.tk-checks li { padding-left: 1.6rem; position: relative; font-weight: 500; }
+.tk-checks li::before { content: "✓"; position: absolute; left: 0; color: var(--green); font-weight: 700; }
+.tk-prices { display: grid; grid-template-columns: repeat(2, minmax(0, 320px)); gap: 1.25rem; justify-content: center; }
+.tk-price { position: relative; border: 1px solid var(--border); border-radius: var(--radius); padding: 2rem 1.75rem; background: var(--white); display: flex; flex-direction: column; }
+.tk-featured { border: 2px solid var(--blue); box-shadow: var(--shadow); }
+.tk-tag { position: absolute; top: -.8rem; left: 1.75rem; background: var(--blue); color: var(--white); font-size: .72rem; font-weight: 700; padding: .2rem .65rem; border-radius: 100px; }
+.tk-price h3 { font-size: 1rem; color: var(--text-muted); font-weight: 600; }
+.tk-amount { font-size: 2.4rem; font-weight: 700; color: var(--navy); line-height: 1.2; margin: .25rem 0 1rem; }
+.tk-amount span { font-size: .95rem; font-weight: 500; color: var(--text-muted); }
+.tk-price ul { list-style: none; margin-bottom: 1.5rem; display: grid; gap: .4rem; flex: 1; }
+.tk-price li::before { content: "✓  "; color: var(--green); font-weight: 700; }
+.tk-price .btn { justify-content: center; }
+.tk-faq { max-width: 720px; }
+.tk-faq h3 { font-size: 1rem; color: var(--navy); margin: 1.5rem 0 .3rem; }
+.tk-faq p { color: var(--text); }
+.tk-faq a { color: var(--blue); text-decoration: underline; }
+
+/* Home page promo for the toolkit */
+.tk-promo { padding: 3rem 0 0; }
+.tk-promo-inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; border: 1px solid var(--border); border-radius: var(--radius); padding: 1.75rem; background: var(--blue-light); }
+.tk-promo h2 { font-size: 1.25rem; color: var(--navy); }
+.tk-promo p { color: var(--text-muted); font-size: .93rem; }
+
+@media (max-width: 768px) {
+  .tk-why { grid-template-columns: 1fr; }
+  .tk-prices { grid-template-columns: 1fr; }
+  .tk-section { padding: 3rem 0; }
+}
