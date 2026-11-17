@@ -2,3 +2,7 @@ output/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Paid template files: never publish these in this public repo
+members-toolkit/
+*.zip
